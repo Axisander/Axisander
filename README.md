@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 👋 Hi, I'm Axisander
 
 <p float="center">
-  <img src="https://github.com/Axisander/Axisander/blob/main/img/vk.png?raw=true)" width="100" />
+  <img src="https://github.com/Axisander/Axisander/blob/main/img/ds.png?raw=true)" width="100" />
   <img src="https://github.com/Axisander/Axisander/blob/main/img/vk.png?raw=true)" width="100" />
