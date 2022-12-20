@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Axisander/Axisander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 👋 Hi, I'm Axisander
 
 <p float="center">
-  <img src="https://github.com/Axisander/Axisander/blob/main/img/ds.png?raw=true)" width="100" />
-  <img src="https://github.com/Axisander/Axisander/blob/main/img/vk.png?raw=true)" width="100" />
+  <a target="_blank" href="https://discordapp.com/users/640069052013740032"><img src="https://github.com/Axisander/Axisander/blob/main/img/ds.png?raw=true)" width="100"/></a>
+  <img src="https://github.com/Axisander/Axisander/blob/main/img/vk.png?raw=true)" width="100"/>
