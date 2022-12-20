@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm Axisander (or Alexander)
+**👋 Hi, I'm Axisander (or Alexander)**
 Minecraft Bedrock Editon - the best JS interpreter!!!
 
 <p float="center">
