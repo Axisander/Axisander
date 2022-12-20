@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 👋 Hi, I'm Axisander
 
 <p float="center">
-  <a target="_blank" href="https://discordapp.com/users/640069052013740032"><img src="https://github.com/Axisander/Axisander/blob/main/img/ds.png?raw=true)" width="100"/></a>
-  <img src="https://github.com/Axisander/Axisander/blob/main/img/vk.png?raw=true)" width="100"/>
+  <a target="_blank" href="https://discordapp.com/users/640069052013740032"><img src="https://github.com/Axisander/Axisander/blob/main/img/ds.png?raw=true)" width="50"/></a>
+  <a target="_blank" href="https://vk.com/axisander"><img src="https://github.com/Axisander/Axisander/blob/main/img/vk.png?raw=true)" width="50"/></a>
