@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**👋 Hi, I'm Axisander (or Alexander)**
+**👋 Hi, I'm Axisander**
+🔭 I use:
+- TypeScript
+- JavaScript
+
 
 <p float="center">
   <a target="_blank" href="https://discordapp.com/users/640069052013740032"><img src="https://github.com/Axisander/Axisander/blob/main/img/ds.png?raw=true)" width="50"/></a>
