@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 I use:
 - TypeScript 💙
 - JavaScript 💔
-In:
+
+For:
 - Minecraft Bedrock Edition
 - Web Development
 
