@@ -27,5 +27,6 @@ For:
 
 <p float="center">
   <a target="_blank" href="https://discordapp.com/users/640069052013740032"><img src="https://github.com/Axisander/Axisander/blob/main/img/ds.png?raw=true)" width="50"/></a>
-<!--   <a target="_blank" href="https://vk.com/axisander"><img src="https://github.com/Axisander/Axisander/blob/main/img/vk.png?raw=true)" width="50"/></a> -->
+  <a target="_blank" href="https://t.me/ottertry"><img src="https://github.com/Axisander/Axisander/blob/main/img/1683044996telegram-logo-png.png?raw=true)" width="50"/></a>
+  <!--   <a target="_blank" href="https://vk.com/axisander"><img src="https://github.com/Axisander/Axisander/blob/main/img/vk.png?raw=true)" width="50"/></a> -->
 </p>
