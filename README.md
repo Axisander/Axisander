@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 **👋 Hi, I'm Axisander**
 
-🔭 I use:
-- TypeScript
-- JavaScript
+I use:
+- TypeScript 💙
+- JavaScript 💔
+In:
+- Minecraft Bedrock Edition
+- Web Development
 
 
 <p float="center">
